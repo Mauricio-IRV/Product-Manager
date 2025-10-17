@@ -1,8 +1,14 @@
-# product-manager
+# Product-Manager
 
 Product Manager is an Electron application built with React and TypeScript. It fetches product details from Amazon (by URL or ASIN), formats them and provides a quick way to prepare product records for insertion into a DynamoDB instance.
 
-This README covers how to install, run, build, and troubleshoot the project locally on macOS (zsh). It also documents project structure and common pitfalls.
+This README provides visuals of the app and covers how to install, run, build, and troubleshoot the project locally on macOS (zsh). It also documents project structure and common pitfalls.
+
+## Visuals
+
+<img src="assets/image_1.png" width="800">
+<img src="assets/image_2.png" width="800">
+<img src="assets/image_3.png" width="800">
 
 ## Quick links
 
